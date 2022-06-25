@@ -1,4 +1,4 @@
-# lookmee_sv_notebook
+# My Notebook - CU Survey Engineering
 ![IMG_20200910_143441](https://user-images.githubusercontent.com/88705136/175766008-c2d42165-2c72-453d-9fcd-0950b635e7c7.jpg)
 รวมเอกสารประกอบการบรรยาย ชีทติวเพื่อน ติวน้อง สรุปที่ทำให้ตนเอง ผลผลิตจากการนั่งเรียนในคลาส
 
